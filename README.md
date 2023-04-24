@@ -21,3 +21,5 @@ Requirements:
 -Make sure you have all the necessary dependencies installed (OpenCV, NumPy and Imutils).
 -Place the video you want to analyze in the same folder as the Python script or provide the full path to the file in the video_path variable.
 -Run the Python script and observe how people are detected and highlighted in the video in real time.
+
+Important: put all the files in a folder that you can create and run it.
